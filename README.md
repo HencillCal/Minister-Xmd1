@@ -8,7 +8,7 @@
 
 - For Vps/Panel Deployment You must download the zip from panel sections or from below link else your youtube downloaders wont work on panel.
 
-<a href="https://github.com/emkay416/MinisterX-md-/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-yellow" alt="Panel Zip File" width="150"></a>
+<a href="https://github.com/emkay416/Minister-Xmd/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-yellow" alt="Panel Zip File" width="150"></a>
   
 </details>
 
@@ -23,7 +23,7 @@
   
 - This is essential for you to obtain your own safe forked deployable repo especially heroku users.
 
-<a href="https://github.com/emkay416/MinisterX-md-/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK MINISTER-XMD" width="150"></a>
+<a href="https://github.com/emkay416/Minister-Xmd/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK MINISTER-XMD" width="150"></a>
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
